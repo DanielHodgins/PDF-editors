@@ -1,5 +1,6 @@
 # PDF-editors
-This is a repository of python scripts to fix common issues with PDFs
+This is a repository of python scripts to fix common issues with PDFs.
+Later this month (December 2025), I plan to make it into a nice app and wanted to have this current form as a checklist of things to add.
 
 ## Installation
 
